@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![WhatsApp Image 2026-03-24 at 6 57 33 PM](https://github.com/user-attachments/assets/fc2dfcbe-fa06-480c-99c2-d645054dae6d)
 
-### Name:
-### Register Number:
+### Name:PIRUTHIVIRAJ G
+### Register Number:212225040299
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
